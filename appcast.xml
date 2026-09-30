@@ -6,6 +6,15 @@
     <description>Updates for Renoir for macOS</description>
     <language>en</language>
     <item>
+      <title>Renoir 1.13.2</title>
+      <pubDate>Thu, 01 Oct 2026 08:45:36 +1000</pubDate>
+      <sparkle:version>44</sparkle:version>
+      <sparkle:shortVersionString>1.13.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Reopen Renoir from the Dock and edit the heading and subtitle above your drawing.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Dock reopening works after closing the window.&lt;/strong&gt; Clicking Renoir in the Dock opens its library window when the last window has been closed. A minimised window is restored without creating a second window.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Edit the drawing header.&lt;/strong&gt; Choose &lt;strong&gt;Drawing › Edit Drawing Header…&lt;/strong&gt;, or use the drawing inspector, to change the main heading and the smaller subtitle directly beneath it. You can also show or hide the header. Apply the changes, then choose &lt;strong&gt;Save Version&lt;/strong&gt; (⌘S) to keep them in the drawing’s history. Undo and redo are supported.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Choose subtitle scope for diagrams with states.&lt;/strong&gt; Apply a subtitle to the current state or every state. The heading is shared across states, and Renoir adds the state name when displaying it. The edited header appears in the canvas and exported drawings.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Choose &lt;strong&gt;Renoir › Check for Updates…&lt;/strong&gt; to install this version, or download the DMG, open it, and drag &lt;strong&gt;Renoir.app&lt;/strong&gt; to &lt;strong&gt;Applications&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Requires macOS 14 or newer on Apple silicon. This installer is Developer ID signed and notarised by Apple.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/acousland/Renoir-releases/releases/download/v1.13.2/Renoir-1.13.2.dmg" sparkle:edSignature="Q6r+bYb4gWejFHtBhzghV7qP7guNEq7ey3f+JpAFUMZ899Cn8jO+nD1MsfCNjcoFWC1dggGztR87utDewA1uCg==" length="8863386" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Renoir 1.13.1</title>
       <pubDate>Wed, 30 Sep 2026 21:48:11 +1000</pubDate>
       <sparkle:version>42</sparkle:version>
