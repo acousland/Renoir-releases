@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <title>Renoir</title>
     <link>https://github.com/acousland/Renoir-releases</link>
     <description>Updates for Renoir for macOS</description>
     <language>en</language>
+    <item>
+      <title>Renoir 1.11.0</title>
+      <pubDate>Wed, 30 Sep 2026 15:38:35 +1000</pubDate>
+      <sparkle:version>32</sparkle:version>
+      <sparkle:shortVersionString>1.11.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Renoir now keeps itself up to date.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Automatic updates.&lt;/strong&gt; Renoir checks for new versions and installs them for you. Choose &lt;strong&gt;Renoir › Check for Updates…&lt;/strong&gt; to check now, and turn automatic checks and installs on or off in &lt;strong&gt;Settings › General&lt;/strong&gt;, which also shows the version you have.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Signed and checked.&lt;/strong&gt; Updates come from Renoir's public releases at &lt;a href="https://github.com/acousland/Renoir-releases"&gt;acousland/Renoir-releases&lt;/a&gt;, and Renoir installs one only if it's signed with Renoir's own key.&lt;/li&gt;&lt;li&gt;This is the last version to install by hand. Once you have it, later versions arrive on their own.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Download the DMG, open it, and drag &lt;strong&gt;Renoir.app&lt;/strong&gt; to &lt;strong&gt;Applications&lt;/strong&gt;. The MCP helper is inside the app at &lt;code&gt;Renoir.app/Contents/MacOS/RenoirMCP&lt;/code&gt;; see &lt;a href="https://github.com/acousland/Renoir-macOS/blob/main/MCP.md"&gt;MCP setup&lt;/a&gt; for client configuration.&lt;/p&gt;&lt;p&gt;Requires macOS 14 or newer. The build is ad hoc signed and has not been notarized by Apple, so macOS may ask you to approve its first launch.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/acousland/Renoir-releases/releases/download/v1.11.0/Renoir-1.11.0.dmg" sparkle:edSignature="B2kPPVDhtyB8rcU3gXUjiYx6jMn5ZuGenoXaysM0chCoNZB0hxZkve8eJvPrfYQoXA7beEVZeIeHItfpYzApBg==" length="8412832" type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
