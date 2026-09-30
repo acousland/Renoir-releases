@@ -6,6 +6,15 @@
     <description>Updates for Renoir for macOS</description>
     <language>en</language>
     <item>
+      <title>Renoir 1.13.3</title>
+      <pubDate>Thu, 01 Oct 2026 09:04:20 +1000</pubDate>
+      <sparkle:version>46</sparkle:version>
+      <sparkle:shortVersionString>1.13.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Reduce repeated rendering work when moving boxes, previewing layouts, and interacting with drawings.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Faster layout animation.&lt;/strong&gt; Renoir prepares relationship routes once for the destination layout and reuses them during animation. It no longer reroutes and validates the whole drawing on every animation frame.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Lighter canvas redraws.&lt;/strong&gt; Stencil icons are cached after decoding, and boxes outside the visible or updated area are skipped. Unchanged scenes are reused without starting another redraw.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Keep larger drawings responsive.&lt;/strong&gt; Drawings with more than 250 boxes or 80 relationships switch directly to the new layout. Animation also stops when its canvas is removed.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Edits stay current during movement.&lt;/strong&gt; Title and metadata changes made during an animation are displayed immediately.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Choose &lt;strong&gt;Renoir › Check for Updates…&lt;/strong&gt; to install this version, or download the DMG, open it, and drag &lt;strong&gt;Renoir.app&lt;/strong&gt; to &lt;strong&gt;Applications&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Requires macOS 14 or newer on Apple silicon. This installer is Developer ID signed and notarised by Apple.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/acousland/Renoir-releases/releases/download/v1.13.3/Renoir-1.13.3.dmg" sparkle:edSignature="vgiJqxkL8iU5qy448C/cb8oNSJm+BBEcr7BtYQO/kxzBpQKce/ZqyjR8as6/gmuvHjynm1JlkSH31Cer61WZDQ==" length="8890483" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Renoir 1.13.2</title>
       <pubDate>Thu, 01 Oct 2026 08:45:36 +1000</pubDate>
       <sparkle:version>44</sparkle:version>
