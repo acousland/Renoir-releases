@@ -6,6 +6,15 @@
     <description>Updates for Renoir for macOS</description>
     <language>en</language>
     <item>
+      <title>Renoir 1.13.1</title>
+      <pubDate>Wed, 30 Sep 2026 21:48:11 +1000</pubDate>
+      <sparkle:version>42</sparkle:version>
+      <sparkle:shortVersionString>1.13.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Place boxes first, enter their details afterwards, and delete boxes directly in Renoir.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Drop first, enter metadata second.&lt;/strong&gt; Drag any built-in or custom stencil onto the diagram or into a container. Renoir adds the box and reruns the layout before opening its title, style, and metadata editor. Choose &lt;strong&gt;Later&lt;/strong&gt; to keep the box and fill in its details afterwards. Clicking a stencil still lets you enter details before adding it.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Delete boxes from the UI.&lt;/strong&gt; Select a box and press &lt;strong&gt;Delete&lt;/strong&gt;, choose &lt;strong&gt;Drawing › Delete Box&lt;/strong&gt; (⌘⌫), or use the inspector or right-click menu. A confirmation explains what will be removed. Deleting a container also removes its contents and attached relationships across every state. Undo and redo are available before saving.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Always arrange new boxes.&lt;/strong&gt; Every insertion reruns the selected layout, including additions to empty containers and drawings without a saved layout. Diagrams with multiple states recalculate their shared slots. Drawings without a chosen layout use balanced nesting.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Choose &lt;strong&gt;Save Version&lt;/strong&gt; (⌘S) to keep your box and metadata changes in the drawing’s history.&lt;/p&gt;&lt;p&gt;Choose &lt;strong&gt;Renoir › Check for Updates…&lt;/strong&gt; to install this version, or download the DMG, open it, and drag &lt;strong&gt;Renoir.app&lt;/strong&gt; to &lt;strong&gt;Applications&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Requires macOS 14 or newer on Apple silicon. This installer is Developer ID signed and notarised by Apple.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/acousland/Renoir-releases/releases/download/v1.13.1/Renoir-1.13.1.dmg" sparkle:edSignature="NPtta1Z3qAZmmyizAXD6DKreQsRMSxPFBICTKQ/0kYIimfP4VrKJiO1nrM2k90hTWyQWBcMXKx4palcfFTTNBw==" length="8830464" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Renoir 1.13.0</title>
       <pubDate>Wed, 30 Sep 2026 21:33:00 +1000</pubDate>
       <sparkle:version>40</sparkle:version>
