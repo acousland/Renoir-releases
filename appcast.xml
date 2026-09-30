@@ -6,6 +6,15 @@
     <description>Updates for Renoir for macOS</description>
     <language>en</language>
     <item>
+      <title>Renoir 1.13.0</title>
+      <pubDate>Wed, 30 Sep 2026 21:33:00 +1000</pubDate>
+      <sparkle:version>40</sparkle:version>
+      <sparkle:shortVersionString>1.13.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Create boxes from stencils and edit their titles, text style, and metadata inside Renoir.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Add boxes from any stencil.&lt;/strong&gt; &lt;strong&gt;Add Box&lt;/strong&gt; (⇧⌘B) opens a searchable palette of built-in and custom stencils. Drag a stencil onto the drawing or into a container, including an empty one, or click it to enter its details. The current layout makes room for new boxes; drawings without a saved layout use nesting.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Edit titles and metadata.&lt;/strong&gt; Double-click a box, choose &lt;strong&gt;Drawing › Edit Component&lt;/strong&gt; (⇧⌘E), or use the inspector to edit its title, description, source link, and named metadata fields. Metadata supports text, numbers, yes/no values, and structured values.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Choose title fonts and text sizes.&lt;/strong&gt; Change the font family, point size, bold, and alignment, with a live preview. The canvas and PNG, PDF, SVG, and HTML exports honor the chosen title style. Layout reserves room for larger titles across diagram states.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Move containers with their contents.&lt;/strong&gt; Existing boxes can be dragged into other containers. Container moves update the shared structure in every state, and Renoir prevents moves that would create a parent cycle.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Keep edits in history.&lt;/strong&gt; Apply component edits to the current state or every state, undo and redo them, and use &lt;strong&gt;Save Version&lt;/strong&gt; (⌘S) to keep them. Older imported drawings whose source ID differs from their library ID can now save edits correctly.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Choose &lt;strong&gt;Renoir › Check for Updates…&lt;/strong&gt; to install this version, or download the DMG, open it, and drag &lt;strong&gt;Renoir.app&lt;/strong&gt; to &lt;strong&gt;Applications&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Requires macOS 14 or newer on Apple silicon. This installer is Developer ID signed and notarised by Apple.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/acousland/Renoir-releases/releases/download/v1.13.0/Renoir-1.13.0.dmg" sparkle:edSignature="FxBu7qpWxAItDLV8WUyzBHzgQlDLHHINKlJpOCl0aeYfCWZuotw3xveSaytL6klT/9ygZuzNxpnICq4oh1boAg==" length="8798672" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Renoir 1.12.0</title>
       <pubDate>Wed, 30 Sep 2026 16:27:03 +1000</pubDate>
       <sparkle:version>39</sparkle:version>
