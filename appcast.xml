@@ -6,6 +6,15 @@
     <description>Updates for Renoir for macOS</description>
     <language>en</language>
     <item>
+      <title>Renoir 1.18.1</title>
+      <pubDate>Thu, 01 Oct 2026 16:34:05 +1000</pubDate>
+      <sparkle:version>61</sparkle:version>
+      <sparkle:shortVersionString>1.18.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Choose the font and size of the drawing heading and subtitle from &lt;strong&gt;Drawing › Edit Drawing Header…&lt;/strong&gt;.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Set the heading and subtitle fonts and text sizes independently using fonts installed on your Mac.&lt;/li&gt;&lt;li&gt;Larger text wraps and expands the header area above the diagram.&lt;/li&gt;&lt;li&gt;Header typography is shared across drawing states and preserved by Undo, Redo, Save Version, and rendered exports.&lt;/li&gt;&lt;li&gt;Existing drawings keep their current default typography until you change it.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Choose &lt;strong&gt;Renoir › Check for Updates…&lt;/strong&gt; to install this version, or download the DMG, open it, and drag &lt;strong&gt;Renoir.app&lt;/strong&gt; to &lt;strong&gt;Applications&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Requires macOS 14 or newer on Apple silicon. This installer is Developer ID signed and notarised by Apple.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/acousland/Renoir-releases/releases/download/v1.18.1/Renoir-1.18.1.dmg" sparkle:edSignature="Y6qmlSn2Ntagi1XsN1SeWjdjAhuHVFMdv4KXDcGOfVmJNpoyDRoCInHwZCCC0ey3uClZJ4dZF12pIwqviXK4AQ==" length="9564748" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Renoir 1.18.0</title>
       <pubDate>Thu, 01 Oct 2026 16:22:16 +1000</pubDate>
       <sparkle:version>60</sparkle:version>
