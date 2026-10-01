@@ -6,6 +6,15 @@
     <description>Updates for Renoir for macOS</description>
     <language>en</language>
     <item>
+      <title>Renoir 1.18.0</title>
+      <pubDate>Thu, 01 Oct 2026 16:22:16 +1000</pubDate>
+      <sparkle:version>60</sparkle:version>
+      <sparkle:shortVersionString>1.18.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;AI clients can read and update drawings with fewer calls and much smaller responses.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Discover drawings and stencils through lightweight listings, then fetch selected drawing sections, boxes or stencil templates. Embedded PNGs can be requested separately.&lt;/li&gt;&lt;li&gt;Batch additions, updates and deletions into one revision-checked save, with layout running once. Bulk creation and replacement support inline layout and summary responses.&lt;/li&gt;&lt;li&gt;Import one or more local JSON files directly through MCP, including arrays of drawings, with individual success/error results.&lt;/li&gt;&lt;li&gt;Saves no longer read the entire drawing history. Version listings cache summaries and individual version reads open the requested file directly.&lt;/li&gt;&lt;li&gt;Large exports can return MCP resource links, and existing tool responses remain compatible with optional smaller responses.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;After updating Renoir, restart the connected AI client to reload the helper and its new tools.&lt;/p&gt;&lt;p&gt;Choose &lt;strong&gt;Renoir › Check for Updates…&lt;/strong&gt; to install this version, or download the DMG, open it, and drag &lt;strong&gt;Renoir.app&lt;/strong&gt; to &lt;strong&gt;Applications&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Requires macOS 14 or newer on Apple silicon. This installer is Developer ID signed and notarised by Apple.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/acousland/Renoir-releases/releases/download/v1.18.0/Renoir-1.18.0.dmg" sparkle:edSignature="mvUUB/hKbRyhsg7cmi0++UPNKvmPmoDA0hQKtVzwYpqZ7qFmpF/ESKNcYoARwUUx0weGljxyw0itKYP1jm2mAA==" length="9527532" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Renoir 1.17.1</title>
       <pubDate>Thu, 01 Oct 2026 16:03:22 +1000</pubDate>
       <sparkle:version>59</sparkle:version>
