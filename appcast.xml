@@ -6,6 +6,15 @@
     <description>Updates for Renoir for macOS</description>
     <language>en</language>
     <item>
+      <title>Renoir 1.17.0</title>
+      <pubDate>Thu, 01 Oct 2026 15:54:33 +1000</pubDate>
+      <sparkle:version>58</sparkle:version>
+      <sparkle:shortVersionString>1.17.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Organise stencils into folders and change the type of boxes already on your drawing.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Stencil folders.&lt;/strong&gt; Create, rename, and delete folders from the Stencil Editor’s folder menu. Select a stencil and use &lt;strong&gt;Filed in&lt;/strong&gt; to move it. The Shapes drawer filters by folder, and the box type picker groups stencils by folder. Built-in stencils can be filed too. Deleting a folder moves its stencils to &lt;strong&gt;Unfiled&lt;/strong&gt;, keeping your stencils and drawings.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Change a placed box’s type.&lt;/strong&gt; Open &lt;strong&gt;Edit Box…&lt;/strong&gt; and choose another &lt;strong&gt;Stencil&lt;/strong&gt;. Its shape, colours, outline, PNG, and title style update while its name, description, metadata, source link, connections, and contents stay with it. Occupied containers offer compatible container types. Undo is supported; choose &lt;strong&gt;Save Version&lt;/strong&gt; to keep the edit.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;State-aware type changes.&lt;/strong&gt; Apply a type change to this state or every state. Shared layout reserves enough space for larger shapes used in other states.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Choose &lt;strong&gt;Renoir › Check for Updates…&lt;/strong&gt; to install this version, or download the DMG, open it, and drag &lt;strong&gt;Renoir.app&lt;/strong&gt; to &lt;strong&gt;Applications&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Requires macOS 14 or newer on Apple silicon. This installer is Developer ID signed and notarised by Apple.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/acousland/Renoir-releases/releases/download/v1.17.0/Renoir-1.17.0.dmg" sparkle:edSignature="vEJTdAUXRljl3GqxRSK/pQhZ3REj77UXdqG5UxXyC0OYhBBOgi//JawiAY6wfvzmRHIO96a2pQJ9B1G5Wn3qCA==" length="9289454" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Renoir 1.16.0</title>
       <pubDate>Thu, 01 Oct 2026 14:14:38 +1000</pubDate>
       <sparkle:version>57</sparkle:version>
