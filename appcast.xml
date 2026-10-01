@@ -6,6 +6,15 @@
     <description>Updates for Renoir for macOS</description>
     <language>en</language>
     <item>
+      <title>Renoir 1.14.0</title>
+      <pubDate>Thu, 01 Oct 2026 10:24:33 +1000</pubDate>
+      <sparkle:version>48</sparkle:version>
+      <sparkle:shortVersionString>1.14.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Choose where your library lives, including a downloaded OneDrive folder for use across Macs one at a time.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Move your library from Settings.&lt;/strong&gt; In &lt;strong&gt;Renoir › Settings… › General&lt;/strong&gt;, choose &lt;strong&gt;Move Library…&lt;/strong&gt; and select an empty folder. Renoir copies drawings, version history, comments, folders, custom stencils, presets, and attachments, verifies the copy, then switches to it. The original folder remains available as a recovery copy.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Open an existing library.&lt;/strong&gt; Choose &lt;strong&gt;Open Existing Library…&lt;/strong&gt; and select its root folder. Open Renoir windows reload the chosen library immediately, and the location is remembered on this Mac. Save drawing changes and finish open editors before switching.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Your AI helper follows the location.&lt;/strong&gt; This version's MCP helper checks the current library on each request. Reconnect AI clients after updating Renoir to load the new helper.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Recover when a folder is unavailable.&lt;/strong&gt; Renoir shows a Library Unavailable page with a link to Settings if a chosen folder is missing. It does not create an empty replacement at that location.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;For OneDrive, mark the library folder &lt;strong&gt;Always Keep on This Device&lt;/strong&gt; on each Mac and let syncing finish before switching devices.&lt;/p&gt;&lt;p&gt;Choose &lt;strong&gt;Renoir › Check for Updates…&lt;/strong&gt; to install this version, or download the DMG, open it, and drag &lt;strong&gt;Renoir.app&lt;/strong&gt; to &lt;strong&gt;Applications&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Requires macOS 14 or newer on Apple silicon. This installer is Developer ID signed and notarised by Apple.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/acousland/Renoir-releases/releases/download/v1.14.0/Renoir-1.14.0.dmg" sparkle:edSignature="sKd2TvtIz1qDwTEstei/CtYwru79gdm9FvtLrtG4vn9Vboof3EXoiUDK20412GFF8syrY/iOlN1vynhpMJNtDA==" length="9015681" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Renoir 1.13.3</title>
       <pubDate>Thu, 01 Oct 2026 09:04:20 +1000</pubDate>
       <sparkle:version>46</sparkle:version>
