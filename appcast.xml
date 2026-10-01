@@ -6,6 +6,15 @@
     <description>Updates for Renoir for macOS</description>
     <language>en</language>
     <item>
+      <title>Renoir 1.18.2</title>
+      <pubDate>Thu, 01 Oct 2026 16:44:15 +1000</pubDate>
+      <sparkle:version>62</sparkle:version>
+      <sparkle:shortVersionString>1.18.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Adjust the space between the heading and the drawing using &lt;strong&gt;Layout › Header gap&lt;/strong&gt;.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Reduce or increase the gap below the heading and subtitle with a live preview for every layout algorithm.&lt;/li&gt;&lt;li&gt;Save the gap with the drawing or include it in a layout preset. Revert restores the saved spacing.&lt;/li&gt;&lt;li&gt;The canvas and PNG, PDF, SVG, and HTML exports use the same gap, including across drawing states.&lt;/li&gt;&lt;li&gt;Existing drawings retain their spacing until you change the control. AI clients can set the same gap through layout options.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Choose &lt;strong&gt;Renoir › Check for Updates…&lt;/strong&gt; to install this version, or download the DMG, open it, and drag &lt;strong&gt;Renoir.app&lt;/strong&gt; to &lt;strong&gt;Applications&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Requires macOS 14 or newer on Apple silicon. This installer is Developer ID signed and notarised by Apple.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/acousland/Renoir-releases/releases/download/v1.18.2/Renoir-1.18.2.dmg" sparkle:edSignature="qbcQitUplg2prrV5XsVOvEli4G4DN7pEfiTiJ+JI62YDvYNgy0hze78yEZ3l58ZssZ9YFVQQ/w1vdIQmI7sqBw==" length="9576988" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Renoir 1.18.1</title>
       <pubDate>Thu, 01 Oct 2026 16:34:05 +1000</pubDate>
       <sparkle:version>61</sparkle:version>
