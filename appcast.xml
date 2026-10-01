@@ -6,6 +6,15 @@
     <description>Updates for Renoir for macOS</description>
     <language>en</language>
     <item>
+      <title>Renoir 1.16.0</title>
+      <pubDate>Thu, 01 Oct 2026 14:14:38 +1000</pubDate>
+      <sparkle:version>57</sparkle:version>
+      <sparkle:shortVersionString>1.16.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Add boxes from a compact Shapes drawer and place stencil text where you want it.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Shapes drawer.&lt;/strong&gt; The Shapes toolbar button (⇧⌘B) opens a narrow, searchable grid of draggable thumbnails beside the canvas. Drag a shape onto the drawing or into a container; Layout runs immediately, then Edit Box lets you name it and enter metadata. The drawer stays open when switching drawings and includes a shortcut to the Stencil Editor.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Vertical text alignment.&lt;/strong&gt; In Stencils › Title, choose Top, Middle, or Bottom independently of Left, Centre, or Right. The live preview, canvas and exports use the same placement. Beside-title images follow the text; inside-box images stay clear of it. Containers keep their titles above the boxes inside them.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Adjust existing boxes.&lt;/strong&gt; Edit Box also includes vertical alignment, and the setting survives saving and reopening the drawing.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Choose &lt;strong&gt;Renoir › Check for Updates…&lt;/strong&gt; to install this version, or download the DMG, open it, and drag &lt;strong&gt;Renoir.app&lt;/strong&gt; to &lt;strong&gt;Applications&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Requires macOS 14 or newer on Apple silicon. This installer is Developer ID signed and notarised by Apple.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/acousland/Renoir-releases/releases/download/v1.16.0/Renoir-1.16.0.dmg" sparkle:edSignature="7OYbNeItWnAi9TTCN7nS6SMDYnljM6l38wAd6fD6QhJRlNomSgfOW09FrKqYtwSmrZytwvuKl6USYYkze1IoBg==" length="9189167" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Renoir 1.15.0</title>
       <pubDate>Thu, 01 Oct 2026 12:10:06 +1000</pubDate>
       <sparkle:version>56</sparkle:version>
