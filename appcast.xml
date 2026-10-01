@@ -6,6 +6,15 @@
     <description>Updates for Renoir for macOS</description>
     <language>en</language>
     <item>
+      <title>Renoir 1.14.2</title>
+      <pubDate>Thu, 01 Oct 2026 11:23:40 +1000</pubDate>
+      <sparkle:version>52</sparkle:version>
+      <sparkle:shortVersionString>1.14.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Fixes stencil dragging from the Add Box palette.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Drag from anywhere in a stencil row.&lt;/strong&gt; Press and drag its icon, name, or padding to start dragging a box immediately, including when activating an inactive Renoir window. Built-in and custom stencils use the same native drag support.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Drop first, name afterwards.&lt;/strong&gt; Drop onto the drawing or into a container, then choose &lt;strong&gt;Edit Box…&lt;/strong&gt; in the inspector or right-click menu to enter the name and metadata. Releasing a drag does not also trigger the palette's click action. Clicking a stencil still opens the editor before adding it.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Keep your chosen position.&lt;/strong&gt; Editing a dropped box preserves its position, including after saving and reopening the drawing. Choose &lt;strong&gt;Layout&lt;/strong&gt; whenever you want an automatic arrangement, and &lt;strong&gt;Save Version&lt;/strong&gt; (⌘S) to keep your changes.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Choose &lt;strong&gt;Renoir › Check for Updates…&lt;/strong&gt; to install this version, or download the DMG, open it, and drag &lt;strong&gt;Renoir.app&lt;/strong&gt; to &lt;strong&gt;Applications&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Requires macOS 14 or newer on Apple silicon. This installer is Developer ID signed and notarised by Apple.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/acousland/Renoir-releases/releases/download/v1.14.2/Renoir-1.14.2.dmg" sparkle:edSignature="gbqBKwyAXkFyOlKyvMAsCOeJrUKxgh2QMuG69xi5cVoXRW93S4HdmeMVMS237yB8zv1UQaabyGJ9jkuoSWc9CA==" length="9015255" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Renoir 1.14.1</title>
       <pubDate>Thu, 01 Oct 2026 11:04:10 +1000</pubDate>
       <sparkle:version>50</sparkle:version>
