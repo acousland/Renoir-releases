@@ -6,6 +6,15 @@
     <description>Updates for Renoir for macOS</description>
     <language>en</language>
     <item>
+      <title>Renoir 1.15.0</title>
+      <pubDate>Thu, 01 Oct 2026 12:10:06 +1000</pubDate>
+      <sparkle:version>56</sparkle:version>
+      <sparkle:shortVersionString>1.15.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Create and customise your own stencils inside Renoir.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Stencil Editor.&lt;/strong&gt; Open &lt;strong&gt;Stencils&lt;/strong&gt; in the toolbar, &lt;strong&gt;Drawing › Stencil Editor…&lt;/strong&gt; (⌥⌘S), or &lt;strong&gt;Stencil Editor…&lt;/strong&gt; from Add Box. Create, copy, edit, and delete stencils with a live preview. Customise built-in stencils or restore their original defaults.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Primitive shapes.&lt;/strong&gt; Choose a rectangle, rounded rectangle, pill, circle, ellipse, diamond, triangle, or hexagon. Set dimensions and rounded-corner radius. Rectangles and rounded rectangles can contain other boxes.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Colour and outline controls.&lt;/strong&gt; Set fill, outline, and title colours; fill and outline opacity; outline width and solid, dashed, or dotted style; and the default title font, size, alignment, and boldness.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;PNG images.&lt;/strong&gt; Import a PNG beside the title or inside the box. Adjust the image size beside the title, replace it, or remove it. Images are embedded in the stencil, travel with your library, and appear in exported drawings.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Use stencils immediately.&lt;/strong&gt; Saved stencils appear in Add Box. Drag one onto the drawing or into a container; the current Layout algorithm rearranges the drawing, and Edit Box lets you name the new box afterwards. Deleting a custom stencil keeps its existing boxes and saved history usable.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Choose &lt;strong&gt;Renoir › Check for Updates…&lt;/strong&gt; to install this version, or download the DMG, open it, and drag &lt;strong&gt;Renoir.app&lt;/strong&gt; to &lt;strong&gt;Applications&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Requires macOS 14 or newer on Apple silicon. This installer is Developer ID signed and notarised by Apple.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/acousland/Renoir-releases/releases/download/v1.15.0/Renoir-1.15.0.dmg" sparkle:edSignature="d5x7z6fUWeksrOhs2P6FkmNHXQAdYL6ResXvzXBrtuqBrYyE7YMiKi/5c2qN4KGu5GzEORPilwaeiZq6lHSuCw==" length="9173552" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Renoir 1.14.3</title>
       <pubDate>Thu, 01 Oct 2026 11:39:20 +1000</pubDate>
       <sparkle:version>54</sparkle:version>
