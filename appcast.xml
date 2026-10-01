@@ -6,6 +6,15 @@
     <description>Updates for Renoir for macOS</description>
     <language>en</language>
     <item>
+      <title>Renoir 1.17.1</title>
+      <pubDate>Thu, 01 Oct 2026 16:03:22 +1000</pubDate>
+      <sparkle:version>59</sparkle:version>
+      <sparkle:shortVersionString>1.17.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Folders now appear as section breaks in the Shapes drawer.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Each folder has a heading and divider, with its draggable stencil thumbnails underneath. Unfiled stencils appear in their own section.&lt;/li&gt;&lt;li&gt;Scroll through all folders together. Search matches stencil names, keys, and folder names, keeping matching results grouped.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Choose &lt;strong&gt;Renoir › Check for Updates…&lt;/strong&gt; to install this version, or download the DMG, open it, and drag &lt;strong&gt;Renoir.app&lt;/strong&gt; to &lt;strong&gt;Applications&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Requires macOS 14 or newer on Apple silicon. This installer is Developer ID signed and notarised by Apple.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/acousland/Renoir-releases/releases/download/v1.17.1/Renoir-1.17.1.dmg" sparkle:edSignature="pICgcHoucxCFOelZxqZZwudCIldxubMGunUq33Yb3k07OWBPJ1AQqr9Ncv9FG/f1FM74f7ZNoK0hUbdNjm4eAg==" length="9295349" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Renoir 1.17.0</title>
       <pubDate>Thu, 01 Oct 2026 15:54:33 +1000</pubDate>
       <sparkle:version>58</sparkle:version>
